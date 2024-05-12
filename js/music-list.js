@@ -1,0 +1,86 @@
+let allMusic = [
+    {
+        img : "vasim1",
+        src : "light",
+        name : "Low life",
+        artist : "arman malik",
+    },
+    {
+        img : "vasim2",
+        src : "satisfya",
+        name : "high life",
+        artist : "imran malik",
+    },
+     {
+        img : "vasim1",
+        src : "Ajnabi_Hawayen",
+        name : "Dim Light",
+        artist : "arijit singh",
+     },
+     {
+        img : "vasim2", 
+        src : "Ali_mola",
+        name : "Qwali",
+        artist : "haider Qadri",
+     },
+     {
+        img : "vasim1",
+        src : "Baadshah",
+        name : "baadshah",
+        artist : "shahrukh khan",
+     },
+     {
+        img : "vasim2",
+        src : "Baarish",
+        name : "baarish",
+        artist : "ar rahman",
+     },
+     {
+        img : "vasim1",
+        src : "BatonKoTeri",
+        name : "baton ko teri",
+        artist : "arohi kesav",
+     },
+     {
+        img : "vasim2",
+        src : "Bekhayali",
+        name : "sweet drems",
+        artist : "sachet parmpara",
+     },
+     {
+        img : "vasim1",
+        src : "bheegiPalkopr",
+        name : "broken heart",
+        artist : "akshat jain",
+     },
+     {
+        img : "vasim2",
+        src : "BinaTere",
+        name : "bemisal love",
+        artist : "mj",
+     },
+     {
+        img : "vasim1",
+        src : "BolDoNaZara",
+        name : "bol do na zara",
+        artist : "himesh rasmiya",
+     },
+     {
+        img : "vasim2",
+        src : "BrownMunde",
+        name : "Brown Munde",
+        artist : "sidhu musewala",
+     },
+     {
+        img : "vasim1",
+        src : "ChahuMaiYana",
+        name : "Chahu Mai Yana",
+        artist : "Rohan rao",
+     },
+     {
+        img : "vasim2",
+        src : "Deewana",
+        name : "Deewana kr rhaHai",
+        artist : "sandeep maheswari",
+     },
+]
